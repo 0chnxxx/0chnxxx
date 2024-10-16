@@ -1,8 +1,9 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=8673B9&height=150&section=header&text=:⌇&fontSize=35&fontAlign=51"/>
   <br>
+  <br>
   
-  ![Follow](https://img.shields.io/github/followers/0chnxxx.svg?style=social&label=Follow&maxAge=2592000)
+  ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F0chnxxx%2Fhit-counter&count_bg=%238673B9&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
   <br>
   <br>
   <br>
@@ -16,15 +17,15 @@
   <br>
   <br>
   <br>
+  <a href="https://github.com/devxb/gitanimals">
+    <img src="https://render.gitanimals.org/farms/0chnxxx"/>
+  </a>
+  <!--
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=0chnxxx&show_icons=true&hide_title=true"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0chnxxx&layout=compact&hide_title=true"/>
   </a>
-  <br>
-  <br>
-  <br>
-
-  ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F0chnxxx%2Fhit-counter&count_bg=%238673B9&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
+  -->
 </div>
